@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[
+    {"name":"ModGrillbys","order":1,"path":"folders/ModGrillbys.yy",},
+    {"name":"ModObjects","order":2,"path":"folders/ModGrillbys/ModObjects.yy",},
+    {"name":"ModRooms","order":1,"path":"folders/ModGrillbys/ModRooms.yy",},
+    {"name":"ModSprites","order":3,"path":"folders/ModGrillbys/ModSprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"spr_Minigame_Trigger","order":1,"path":"sprites/spr_Minigame_Trigger/spr_Minigame_Trigger.yy",},
+  ],
+}
