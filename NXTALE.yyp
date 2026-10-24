@@ -12,11 +12,11 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"OvercookedSprites","folderPath":"folders/ModGrillbys/ModSprites/OvercookedSprites.yy","name":"OvercookedSprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ModGrillbys","folderPath":"folders/ModGrillbys.yy","name":"ModGrillbys","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ModObjects","folderPath":"folders/ModGrillbys/ModObjects.yy","name":"ModObjects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ModRooms","folderPath":"folders/ModGrillbys/ModRooms.yy","name":"ModRooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ModSprites","folderPath":"folders/ModGrillbys/ModSprites.yy","name":"ModSprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"OvercookedSprites","folderPath":"folders/ModGrillbys/ModSprites/OvercookedSprites.yy","name":"OvercookedSprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Triggers","folderPath":"folders/ModGrillbys/Triggers.yy","name":"Triggers","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
