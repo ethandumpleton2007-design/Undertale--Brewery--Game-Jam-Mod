@@ -6,6 +6,7 @@
     {"name":"ModSprites","order":3,"path":"folders/ModGrillbys/ModSprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"room_potions","order":1,"path":"rooms/room_potions/room_potions.yy",},
     {"name":"spr_Minigame_Trigger","order":1,"path":"sprites/spr_Minigame_Trigger/spr_Minigame_Trigger.yy",},
   ],
 }
