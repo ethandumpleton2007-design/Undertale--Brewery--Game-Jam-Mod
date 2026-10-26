@@ -4,6 +4,7 @@
     {"name":"ModObjects","order":2,"path":"folders/ModGrillbys/ModObjects.yy",},
     {"name":"ModRooms","order":1,"path":"folders/ModGrillbys/ModRooms.yy",},
     {"name":"ModSprites","order":3,"path":"folders/ModGrillbys/ModSprites.yy",},
+    {"name":"PotionSprites","order":1,"path":"folders/ModGrillbys/ModSprites/PotionSprites.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"room_potions","order":1,"path":"rooms/room_potions/room_potions.yy",},
