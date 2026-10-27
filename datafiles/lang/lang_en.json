@@ -64,6 +64,32 @@
   "item_name_62": "Hush Puppy",
   "item_name_63": "Snail Pie",
   "item_name_64": "temy armor",
+
+  "item_name_65": "Orange",
+  "item_nameb_65": "Orange",
+  "item_names_65": "Orange",
+  "item_desc_65": "Its an orange bruh",
+
+  "item_name_66": "Banana",
+  "item_nameb_66": "Banana",
+  "item_names_66": "Banana",
+  "item_desc_66": "Its a banana bruh",
+
+  "item_name_67": "Apple",
+  "item_nameb_67": "Apple",
+  "item_names_67": "Apple",
+  "item_desc_67": "Its an Apple bruh",
+
+  "item_name_68": "Pineapple",
+  "item_nameb_68": "Pineapple",
+  "item_names_68": "Pineapple",
+  "item_desc_68": "Its a pineapple bruh",
+
+  "item_name_69": "Lemon",
+  "item_nameb_69": "Lemon",
+  "item_names_69": "Lemon",
+  "item_desc_69": "Its a lemon bruh",
+
   "item_nameb_0": "",
   "item_nameb_1": "MnstrCndy",
   "item_nameb_2": "CroqtRoll",
@@ -16975,13 +17001,80 @@
   "mod_test_dialogue_2": "This is new line skibidi rizz./",
   "mod_test_dialogue_3": "And this, my friend, is a new &line/%",
 
-  "sans_undertale_mod_1": "\\E0Heya, kid!/",
-  "sans_undertale_mod_2": "\\E3'what am i doing'?/",
-  "sans_undertale_mod_3": "\\E1I'm obviously washing &dishes. what does it look &like i'm doing?/",
-  "sans_undertale_mod_4": "\\TP\\F4\\E7GET TO WORK,^1 YOU&LAZYBONES!!!!!/%",
+  "sans_undertale_mod_1": "\\E3Hey, kid./",
+  "sans_undertale_mod_2": "\\E3'what do i think im&doing?'/",
+  "sans_undertale_mod_3": "\\E1I'm clearly washing &dishes. what does it look &like i'm doing?/",
+  "sans_undertale_mod_4": "\\TP\\F4\\E7 GET TO WORK,^1 YOU& LAZYBONES!!!!!/%",
 
-  "papyrus_mod_1": "\\E0MAYBE THIS MOD WILL&FINALLY GET ME THE&RESPECT I DESERVE!!/",
-  "papyrus_mod_2": "\\E9I WILL BE THE &FUNNIEST NPC IN &THE WORLD!!!/%"
+  "papyrus_mod_start": "IF YOU NEED HELP,^1 &THE GREAT PAPYRUS&MAY ASSIST YOU!/%",
+  "papyrus_mod_ingame_dialogue_1": "\\E0MAYBE THIS MOD WILL&FINALLY GET ME THE&RESPECT I DESERVE!!/",
+  "papyrus_mod_ingame_dialogue_2": "\\E9I WILL BE THE &COOLEST NPC IN &THE WORLD!!!/%",
+
+
+  "grillby_mod_dialogue_1": "...^1 &...^1 &.../",
+  "grillby_mod_dialogue_2": "Grillbz said that sans left a&note on the table for you./",
+  "grillby_mod_dialogue_3": "You picked up and read the note./",
+  "grillby_mod_dialogue_4": "\\TsHey kid^1, my bro is making me &work to pay off my tab.^1 Mind &lending me a ha- /",
+  "grillby_mod_dialogue_5": "\\T0Just as you were about to &finish reading,^1 your train of &thought was lost by the/",
+  "grillby_mod_dialogue_6": "familiar sound of 2 skeletons&bickering in the kitchen./",
+
+  "papyrus_mod_dialogue_1": "\\TP\\F4\\E7OF COURSE HE&REMEMBERS YOUR TAB^1,&YOU OWE HIM 10000G/",
+  "papyrus_mod_dialogue_2": "IF I RAN A BAR,^1 I&WOULD BE FURIOUS AT&YOU FOR ALL THE/",
+  "papyrus_mod_dialogue_3": "MONEY YOU OWE ME,&AND ALL THE&IMPORTANT BUSINESS/",
+  "papyrus_mod_dialogue_4": "EXPENSES IM NOT&SPENDING IT ON!/",
+  "papyrus_mod_dialogue_5": "\\E0LIKE A LARGE&NEON SIGN OF MY&FACE, AND PEPPER/",
+  "papyrus_mod_dialogue_6": "SHAKERS AND&PLACEMATS AND&SODA CUPS^1.^1.^1. ALSO/",
+  "papyrus_mod_dialogue_7": "OF MY FACE!^1 MY&BUSINESS WOULD&FLOURISH/",
+  "papyrus_mod_dialogue_8": "\\E9AND SO WOULD MY&FACE,^1 FROM ALL THE&EXPENSIVE SKINCARE/",
+  "papyrus_mod_dialogue_9": "IM BUYING USING&MY FACE MONEY FROM&MY BOOMING FACE/",
+  "papyrus_mod_dialogue_10": "THEMED RESTAURANT./",
+
+  "sans_mod_dialogue_1": "\\Ts\\F3\\E1I guess you'd be&the face of the&restaurant./",
+
+  "papyrus_mod_dialogue_11": "\\TP\\F4\\E0MM^1.^1.^1.^1 NO. I'D&JUST BE THE&MANAGER./",
+
+  "grillby_mod_dialogue_7": "\\T0\\F0(grillby tries to say its no&worry about the tab but is&rudely interrupted by papyrus)./",
+
+  "papyrus_mod_dialogue_12": "\\TP\\F4\\E7NONSENSE &SHMONSENSE RING A &RING A ROSES!!!/",
+  "papyrus_mod_dialogue_13": "\\E0AS NOBLE MEMBERS&OF THE ROYAL&GUARD^1,IT IS OUR/",
+  "papyrus_mod_dialogue_14": "SWORN DUTY TO REPAY&TABS ON TIME AND&IN FULL!/",
+  "papyrus_mod_dialogue_15": "FORMS OF REPAYMENT&INCLUDE BUT ARE NOT&LIMITED TO:/",
+  "papyrus_mod_dialogue_16": "G, GLOOBY SLIME, A&FIRM HANDSHAKE^1,&HOT GOSSIP AND/",
+  "papyrus_mod_dialogue_17": "UNPAID LABOUR!/",
+
+  "sans_mod_dialogue_2": "\\Ts\\F3\\E0Wow^1, we have at least&one of those things./",
+
+  "papyrus_mod_dialogue_18": "\\TP\\F4\\E0AND IT'S NOT&LEGAL TENDER^1, SO&UNPAID LABOUR IT IS!/",
+  "papyrus_mod_dialogue_19": "IT'S RIGHT HERE IN&THE CONTRACT!/",
+
+  "sans_mod_dialogue_3": "\\Ts\\F3\\E0^1.^1.^1.^1 Uhhhhh, I don't see&any papers./",
+
+  "papyrus_mod_dialogue_20": "\\TP\\F4\\E9I MEMORISED IT!!/",
+
+  "sans_mod_dialogue_4": "\\Ts\\F3\\E0All 467 pages?/",
+
+  "papyrus_mod_dialogue_21": "\\TP\\F4\\E9ALL 467 PAGES!!!/",
+
+  "sans_mod_dialogue_5": "\\Ts\\F3\\E0^1.^1.^1.^1 Paps, you're the&coolest./",
+
+  "papyrus_mod_dialogue_22": "\\TP\\F4\\E9I KNOW!!/",
+  "papyrus_mod_dialogue_23": "\\E0AND THE HUMAN&SHOULD BE HERE AT&ANY MOMENT^1, NOW./",
+
+  "sans_mod_dialogue_6": "\\Ts\\F3\\E0That's true. The&more the merrier./",
+
+  "papyrus_mod_dialogue_24": "\\TP\\F4\\E9ESPECIALLY WHEN&YOU DON'T HAVE TO&PAY THEM!/",
+  "papyrus_mod_dialogue_25": "NYEH HEH HEH!!/",
+
+  "grillby_mod_dialogue_8": "\\T0\\F0(With an irritated look on his&face, Grillby motions for you&to get in the kitchen)./%",
+
+  "recipe_text_1": "There are 4 different types of&smoothie you can make/",
+  "recipe_text_2": "To make a cyan smoothie, blend&a lemon and a pinapple/",
+  "recipe_text_3": "To make an orange smoothie^1,&blend an orange, a pinapple and a banana/",
+  "recipe_text_4": "To make a blue smoothie, blend&everything except for apple/",
+  "recipe_text_5": "To make a red smoothie, blend everything including apple/%"
+
+
+
 
 
 }

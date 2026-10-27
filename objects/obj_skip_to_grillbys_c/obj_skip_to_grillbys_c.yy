@@ -9,8 +9,8 @@
   "name":"obj_skip_to_grillbys_c",
   "overriddenProperties":[],
   "parent":{
-    "name":"ModDebug",
-    "path":"folders/ModGrillbys/ModDebug.yy",
+    "name":"ModGrilbDebug",
+    "path":"folders/ModGrillbysUnsorted/ModGrilbDebug.yy",
   },
   "parentObjectId":null,
   "persistent":false,

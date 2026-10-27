@@ -11,12 +11,12 @@
   "name":"obj_sans_washing_dishes",
   "overriddenProperties":[],
   "parent":{
-    "name":"ModObjects",
-    "path":"folders/ModGrillbys/ModObjects.yy",
+    "name":"ModGrilbObjects",
+    "path":"folders/ModGrillbysUnsorted/ModGrilbObjects.yy",
   },
   "parentObjectId":{
-    "name":"obj_readablesolid",
-    "path":"objects/obj_readablesolid/obj_readablesolid.yy",
+    "name":"obj_readable",
+    "path":"objects/obj_readable/obj_readable.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sans_r",
-    "path":"sprites/spr_sans_r/spr_sans_r.yy",
+    "name":"spr_sans_sleeping_anim",
+    "path":"sprites/spr_sans_sleeping_anim/spr_sans_sleeping_anim.yy",
   },
   "spriteMaskId":null,
   "visible":true,

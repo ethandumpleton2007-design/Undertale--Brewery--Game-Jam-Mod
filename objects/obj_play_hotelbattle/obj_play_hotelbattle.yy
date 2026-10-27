@@ -9,8 +9,8 @@
   "name":"obj_play_hotelbattle",
   "overriddenProperties":[],
   "parent":{
-    "name":"ModObjects",
-    "path":"folders/ModGrillbys/ModObjects.yy",
+    "name":"ModGrilbObjects",
+    "path":"folders/ModGrillbysUnsorted/ModGrilbObjects.yy",
   },
   "parentObjectId":{
     "name":"obj_musicobjectparent",

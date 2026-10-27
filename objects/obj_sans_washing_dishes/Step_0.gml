@@ -10,3 +10,9 @@ if (myinteract == 3)
 		myinteract = 0
 	}
 }
+
+if(global.dirtyCups > 0){isCleaning = true;}
+else{isCleaning = false;}
+
+if(isCleaning){state = sansKitchenState.cleaning;}
+else{state = sansKitchenState.sleeping}

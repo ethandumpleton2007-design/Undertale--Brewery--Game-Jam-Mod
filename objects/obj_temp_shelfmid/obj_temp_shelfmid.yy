@@ -8,8 +8,8 @@
   "name":"obj_temp_shelfmid",
   "overriddenProperties":[],
   "parent":{
-    "name":"ModObjects",
-    "path":"folders/ModGrillbys/ModObjects.yy",
+    "name":"ModGrilbObjects",
+    "path":"folders/ModGrillbysUnsorted/ModGrilbObjects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

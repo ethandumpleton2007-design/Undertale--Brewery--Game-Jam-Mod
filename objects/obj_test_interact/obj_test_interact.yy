@@ -11,8 +11,8 @@
   "name":"obj_test_interact",
   "overriddenProperties":[],
   "parent":{
-    "name":"ModObjects",
-    "path":"folders/ModGrillbys/ModObjects.yy",
+    "name":"ModGrilbObjects",
+    "path":"folders/ModGrillbysUnsorted/ModGrilbObjects.yy",
   },
   "parentObjectId":{
     "name":"obj_readable",
