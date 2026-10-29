@@ -109,6 +109,27 @@ if (global.facing == Direction.Left)
 	sprite_index = lsprite
 if (FL_CompletedTrueLab == 1)
 	image_blend = merge_color(c_gray, c_white, 0.3)
+	
+global.HasOrange = false;
+global.HasBanana = false;
+global.HasApple = false;
+global.HasPinapple = false;
+global.HasLemon = false;
+global.HasSomething = false;
+global.HasNothing = false;
+
+
+global.HasCyanGlass = false;
+global.HasCyanDirtyGlass = false;
+global.HasOrangeGlass = false;
+global.HasOrangeDirtyGlass = false;
+global.HasBlueGlass = false;
+global.HasBlueDirtyGlass = false;
+global.HasRedGlass = false;
+global.HasRedDirtyGlass = false;
+
+
+
 inwater = 0
 h_skip = 0
 uncan = 0

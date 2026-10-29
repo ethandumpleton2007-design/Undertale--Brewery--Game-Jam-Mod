@@ -1,5 +1,9 @@
 global.entrance = 20
 instance_create(0, 0, obj_persistentfader)
+if (room == room_tundra_grillby){
+    room_goto(room_tundra_grillby_overcooked);}
+if (room == room_tundra_grillby_overcooked){
+    room_goto(room_tundra_grillby);}
 if (room == room_tundra_town)
 	room_goto(room_tundra_inn)
 if (room == room_tundra_inn)

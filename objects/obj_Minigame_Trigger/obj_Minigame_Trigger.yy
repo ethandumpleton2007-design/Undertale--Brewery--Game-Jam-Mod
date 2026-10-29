@@ -10,8 +10,8 @@
   "name":"obj_Minigame_Trigger",
   "overriddenProperties":[],
   "parent":{
-    "name":"Triggers",
-    "path":"folders/ModGrillbys/Triggers.yy",
+    "name":"ModGrilbTriggers",
+    "path":"folders/ModGrillbysUnsorted/ModGrilbTriggers.yy",
   },
   "parentObjectId":{
     "name":"obj_doorparent",
