@@ -8,7 +8,7 @@ function SCR_TEXT(_dialog_id)
 		case 0:
 			break
 		case 1:
-			global.msg[0] = "\\XLa, la.^3 &Time to wake&up and\\R smell\\X &the^4 pain./"
+			global.msg[0] = "poopa./%%"
 			global.msg[1] = "* Though^2.^4.^6.^8.&It's still a&little shaky./"
 			global.msg[2] = "fhuehfuehfuehfuheufhe/%"
 			global.msg[3] = "%%%"

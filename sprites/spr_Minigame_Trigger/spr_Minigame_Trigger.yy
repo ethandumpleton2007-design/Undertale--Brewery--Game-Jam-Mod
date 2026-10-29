@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Triggers",
-    "path":"folders/ModGrillbys/Triggers.yy",
+    "name":"ModGrilbTriggers",
+    "path":"folders/ModGrillbysUnsorted/ModGrilbTriggers.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
