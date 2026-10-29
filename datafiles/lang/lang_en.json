@@ -17005,17 +17005,42 @@
   "sans_undertale_mod_2": "\\E3'what do i think im&doing?'/",
   "sans_undertale_mod_3": "\\E1I'm clearly washing &dishes. what does it look &like i'm doing?/",
   "sans_undertale_mod_4": "\\TP\\F4\\E7 GET TO WORK,^1 YOU& LAZYBONES!!!!!/%",
+  "sans_undertale_mod_5": "\\E0On it./%",
+  
+  "sans_undertale_mod_6": "can't you see i'm busy?/%",
 
-  "papyrus_mod_start": "IF YOU NEED HELP,^1 &THE GREAT PAPYRUS&MAY ASSIST YOU!/%",
-  "papyrus_mod_ingame_dialogue_1": "\\E0MAYBE THIS MOD WILL&FINALLY GET ME THE&RESPECT I DESERVE!!/",
-  "papyrus_mod_ingame_dialogue_2": "\\E9I WILL BE THE &COOLEST NPC IN &THE WORLD!!!/%",
+
+  "papyrus_mod_start": "IF YOU NEED HELP,^1 &JUST ASK ME!!/%",
+  "papyrus_mod_ingame_dialogue_1": "\\E0AS YOUR MANAGER^1,&I^1, THE GREAT PAPYRUS&WILL ASSIST YOU!!/",
+  "papyrus_mod_ingame_dialogue_2": "THERE ARE 4&DIFFERENT&SMOOTHIES^1, WITH/",
+  "papyrus_mod_ingame_dialogue_3": "EACH OF THEIR&RECIPES BEING LISTED&ON THE SIGN BEHIND/",
+  "papyrus_mod_ingame_dialogue_4": "ME^1! YOU CAN ALSO&VIEW THE CURRENT&ORDERS ON THE SIGN/",
+  "papyrus_mod_ingame_dialogue_5": "NEXT TO THAT ONE!/",
+  "papyrus_mod_ingame_dialogue_6": "TO MAKE A&SMOOTHIE^1, BRING&EACH INGREDIENT TO/",
+  "papyrus_mod_ingame_dialogue_7": "THE BLENDER AND&THEN INTERACT WITH&IT^1! WHEN YOU ARE/",
+  "papyrus_mod_ingame_dialogue_8": "FINISHED^1, THE&BLENDER WILL THEN&MAGICALLY TELEPORT/",
+  "papyrus_mod_ingame_dialogue_9": "THE DRINKS TO THEIR&CUPS!/",
+
+  "papyrus_mod_ingame_dialogue_10": "\\Ts\\F3\\E1Ethan was too lazy&to implement animations,/",
+  "papyrus_mod_ingame_dialogue_11": "so this is the best you'll&get^1.\\E1 Heck if i care though./",
+
+  "papyrus_mod_ingame_dialogue_12": "\\TP\\F4\\E5AFTER ONE OF THE&CUPS HAVE MAGICALLY&FILLED ITSELF,/",
+  "papyrus_mod_ingame_dialogue_13": "\\E0YOU MUST THEN BRING&IT OVER TO THE&WINDOW TO BE/",
+  "papyrus_mod_ingame_dialogue_14": "SERVED BY GRILLBY!/",
+  "papyrus_mod_ingame_dialogue_15": "AFTER A RANDOM&AMOUNT OF TIME^1,&GRILLBY WILL PlACE/",
+  "papyrus_mod_ingame_dialogue_16": "A DIRTY CUP IN FRONT&OF THE WINDOW^1. YOU&MUST THEN BRING IT/",
+  "papyrus_mod_ingame_dialogue_17": "\\E6TO MY COOL, YET&EXTREMELY LAZY&BROTHER SANS^1, FOR/",
+  "papyrus_mod_ingame_dialogue_18": "HIM TO CLEAN./",
+  "papyrus_mod_ingame_dialogue_19": "\\E0ONCE CLEANED, JUST&BRING THE CUP&BACK TO ITS/",
+  "papyrus_mod_ingame_dialogue_20": "SPOT NEXT TO THE&BLENDER AND VIOLA!!/",
+  "papyrus_mod_ingame_dialogue_21": "\\E7YOU HAVE TO DO&IT ALL OVER&AGAIN!!!/%",
 
 
   "grillby_mod_dialogue_1": "...^1 &...^1 &.../",
   "grillby_mod_dialogue_2": "Grillbz said that sans left a&note on the table for you./",
   "grillby_mod_dialogue_3": "You picked up and read the note./",
-  "grillby_mod_dialogue_4": "\\TsHey kid^1, my bro is making me &work to pay off my tab.^1 Mind &lending me a ha- /",
-  "grillby_mod_dialogue_5": "\\T0Just as you were about to &finish reading,^1 your train of &thought was lost by the/",
+  "grillby_mod_dialogue_4": "\\Ts  Hey kid^1, my bro is making me &work to pay off my tab.^1 Mind &lending me a ha- /",
+  "grillby_mod_dialogue_5": "\\T0  Just as you were about to &finish reading,^1 your train of &thought was lost by the/",
   "grillby_mod_dialogue_6": "familiar sound of 2 skeletons&bickering in the kitchen./",
 
   "papyrus_mod_dialogue_1": "\\TP\\F4\\E7OF COURSE HE&REMEMBERS YOUR TAB^1,&YOU OWE HIM 10000G/",
@@ -17033,7 +17058,7 @@
 
   "papyrus_mod_dialogue_11": "\\TP\\F4\\E0MM^1.^1.^1.^1 NO. I'D&JUST BE THE&MANAGER./",
 
-  "grillby_mod_dialogue_7": "\\T0\\F0(grillby tries to say its no&worry about the tab but is&rudely interrupted by papyrus)./",
+  "grillby_mod_dialogue_7": "\\T0\\F0  (grillby tries to say its no&worry about the tab but is&rudely interrupted by papyrus)./",
 
   "papyrus_mod_dialogue_12": "\\TP\\F4\\E7NONSENSE &SHMONSENSE RING A &RING A ROSES!!!/",
   "papyrus_mod_dialogue_13": "\\E0AS NOBLE MEMBERS&OF THE ROYAL&GUARD^1,IT IS OUR/",
@@ -17053,7 +17078,7 @@
 
   "sans_mod_dialogue_4": "\\Ts\\F3\\E0All 467 pages?/",
 
-  "papyrus_mod_dialogue_21": "\\TP\\F4\\E9ALL 467 PAGES!!!/",
+  "papyrus_mod_dialogue_21": "\\TP\\F4\\E9  ALL 467 PAGES!!!/",
 
   "sans_mod_dialogue_5": "\\Ts\\F3\\E0^1.^1.^1.^1 Paps, you're the&coolest./",
 
@@ -17065,17 +17090,54 @@
   "papyrus_mod_dialogue_24": "\\TP\\F4\\E9ESPECIALLY WHEN&YOU DON'T HAVE TO&PAY THEM!/",
   "papyrus_mod_dialogue_25": "NYEH HEH HEH!!/",
 
-  "grillby_mod_dialogue_8": "\\T0\\F0(With an irritated look on his&face, Grillby motions for you&to get in the kitchen)./%",
+  "grillby_mod_dialogue_8": "\\T0\\F0  (With an irritated look on his&face^1, Grillby motions for you&to get in the kitchen)./%",
 
-  "recipe_text_1": "There are 4 different types of&smoothie you can make/",
-  "recipe_text_2": "To make a cyan smoothie, blend&a lemon and a pinapple/",
-  "recipe_text_3": "To make an orange smoothie^1,&blend an orange, a pinapple and a banana/",
-  "recipe_text_4": "To make a blue smoothie, blend&everything except for apple/",
-  "recipe_text_5": "To make a red smoothie, blend everything including apple/%"
+  "recipe_text_1": "There are 4 different types of&smoothie you can make./",
+  "recipe_text_2": "To make a cyan smoothie, blend&a lemon and a pinapple./",
+  "recipe_text_3": "To make an orange smoothie^1,&blend an apple, a pinapple and a&lemon./",
+  "recipe_text_4": "To make a blue smoothie, blend&everything except for an apple./",
+  "recipe_text_5": "To make a red smoothie, blend&everything including an apple./%",
 
+  "blender_text_1": "The blender is empty. interact &with it when you are holding&fruit./%",
+  "blender_text_2": "The blender has an unknown fruit&combo in it, so you emptied it&out./%",
+
+  "cyan_smoothie_text": "You made a cyan smoothie^1!&You put it on the table./%",
+  "cyan_smoothie_pickup": "You picked up a cyan&smoothie./%",
+  "cyan_smoothie_given": "You gave a cyan smoothie&to Grillby./%",
+
+  "orange_smoothie_text": "You made an orange smoothie^1!&You put it on the table./%",
+  "orange_smoothie_pickup": "You picked up an orange&smoothie./%",
+  "orange_smoothie_given": "You gave an orange smoothie&to Grillby./%",
+
+  "blue_smoothie_text": "You made a blue smoothie^1!&You put it on the table./%",
+  "blue_smoothie_pickup": "You picked up a blue&smoothie./%",
+  "blue_smoothie_given": "You gave a blue smoothie&to Grillby./%",
+
+  "red_smoothie_text": "You made a red smoothie^1!&You put it on the table./%",
+  "red_smoothie_pickup": "You picked up a red&smoothie./%",
+  "red_smoothie_given": "You gave a red smoothie&to Grillby./%",
+
+  "glass_dirty_pickup": "you picked the dirty cup off the counter/%",
+  "glass_dirty_given": "You gave the dirty cup&to sans./%",
+  "glass_cleaned_pickup": "you picked up a clean cup/%",
+  "glass_returned": "You returned the glass to the&counter next to the blender./%",
+
+  "blender_text_apple_1": "You put the apple in the&blender./%",
+  "blender_text_apple_2": "The blender already has an apple&in it, so you threw the apple&you were holding away./%",
+
+  "blender_text_orange_1": "You put the orange in the&blender./%",
+  "blender_text_orange_2": "The blender already has an orange&in it, so you threw the orange&you were holding away./%",
+
+  "blender_text_banana_1": "You put the banana in the&blender./%",
+  "blender_text_banana_2": "The blender already has a banana&in it, so you threw the banana&you were holding away./%",
+
+  "blender_text_pineapple_1": "You put the pineapple in the&blender./%",
+  "blender_text_pineapple_2": "The blender already has a&pineapple in it, so you threw the&pineapple you were holding away./%",
+
+  "blender_text_lemon_1": "You put the lemon in the&blender./%",
+  "blender_text_lemon_2": "The blender already has a lemon&in it, so you threw the lemon&you were holding away./%"
 
 
 
 
 }
-
