@@ -3,9 +3,9 @@ if(myinteract = 1){
 	global.interact = 1;
 	alarm[0] = 2;}
 
-if(startDialogued = 1){
+if(global.startDialogued = 0){
 	
-	startDialogued = 0;
+	global.startDialogued = 1;
 	global.interact = 1;
 	alarm[1] = 2;}
 

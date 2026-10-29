@@ -115,6 +115,20 @@ global.HasBanana = false;
 global.HasApple = false;
 global.HasPinapple = false;
 global.HasLemon = false;
+global.HasSomething = false;
+global.HasNothing = false;
+
+
+global.HasCyanGlass = false;
+global.HasCyanDirtyGlass = false;
+global.HasOrangeGlass = false;
+global.HasOrangeDirtyGlass = false;
+global.HasBlueGlass = false;
+global.HasBlueDirtyGlass = false;
+global.HasRedGlass = false;
+global.HasRedDirtyGlass = false;
+
+
 
 inwater = 0
 h_skip = 0

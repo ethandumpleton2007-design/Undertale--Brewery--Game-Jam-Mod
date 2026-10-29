@@ -17,11 +17,9 @@ enum sansKitchenState{
 
 state = sansKitchenState.sleeping;
 
-sansSprite[sansKitchenState.cleaning, 0] = spr_sans_clean_anim;
-sansSprite[sansKitchenState.sleeping, 0] = spr_sans_sleeping_anim;
-
-global.cleanCups = 4;
-global.dirtyCups = 0;
+sansSprite = [
+spr_sans_sleeping_anim,
+spr_sans_clean_anim]
 isCleaning = false;
 
 

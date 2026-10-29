@@ -354,3 +354,10 @@ if (global.phasing == 0)
 		}
 	}
 }
+
+if(global.HasOrange || global.HasApple || global.HasBanana || global.HasPinapple || global.HasLemon){
+	global.HasSomething = true;}
+
+if(!global.HasOrange && !global.HasApple && !global.HasBanana && !global.HasPinapple && !global.HasLemon){
+	global.HasNothing = true;}
+else{global.HasNothing = false;}

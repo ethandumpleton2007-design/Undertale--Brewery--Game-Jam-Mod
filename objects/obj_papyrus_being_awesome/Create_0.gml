@@ -1,5 +1,5 @@
 myinteract = 0
-startDialogued = 1
+global.startDialogued = 0
 read = 0
 specialread = 0
 cantalk = 1
